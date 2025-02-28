@@ -20,7 +20,7 @@
       'range': 10,
 
       // number of ticks between items
-      'cooldownTicks': 3,
+      'cooldownTicks': 25,
 
       // number of ticks it takes the item animation to complete.  set to -1 to disable animation.
       'animationTicks': 10,
